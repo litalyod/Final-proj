@@ -1,0 +1,253 @@
+
+A common mistake that people make when trying to design something completely foolproof was to underestimate the ingenuity of complete fools. 
+~Douglas Adams
+^
+Programmer's Drinking Song (sung to the tune of "100 Bottles of Beer")
+99 little bugs in the code,
+99 bugs in the code,
+fix one bug, compile it again,
+101 little bugs in the code.
+101 little bugs in the code....
+(Repeat until BUGS = 0) 
+^ 
+Brian Russell's Laws of Software Relativity (cf. Belady and Lehman's Laws of Software Evolution) 
+*As a software project approaches release, its mass increases. 
+*The energy required to release a software project is inversely proportional to the time before a scheduled release. 
+*It takes infinite energy to release a finished product on time; therefore, all software projects are both incomplete and late. 
+*Time is relative to the observer of a software project. The last month of development appears to an outside observer to take a year. 
+*If a software project becomes too large, it will collapse into a black hole. Time and money are absorbed but nothing ever comes out. 
+^ 
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. 
+So far, the Universe is winning. 
+~Rich Cook
+^
+The first 90 percent of the code accounts for the first 90 percent of the development time...
+The remaining 10 percent of the code accounts for the other 90 percent of the development time. 
+~Tom Cargill
+^
+The bearing of a child takes nine months, no matter how many women are assigned. 
+Many software tasks have this characteristic because of the sequential nature of debugging. 
+~Fred Brooks
+^ 
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+~Martin Fowler
+^
+Wirth's law: Software gets slower faster than hardware gets faster. 
+~Niklaus Wirth
+^
+If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilisation.
+~Gerald Weinberg
+^
+Documentation is the castor oil of programming. Managers think it is good for programmers and programmers hate it!
+~Gerald Weinberg
+^
+Programming can be fun, so can cryptography; however they should not be combined. 
+~Kreitzberg and Shneiderman
+^
+It's OK to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it.
+~Steve McConnell
+^
+An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. 
+~Bjarne Stroustrup
+^
+Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.
+~Larry Wall
+^ 
+Real programmers can write assembly code in any language. 
+~Larry Wall
+^ 
+Theory is when you know something, but it doesn’t work. 
+Practice is when something works, but you don’t know why. 
+Programmers combine theory and practice: Nothing works and they don’t know why. 
+^ 
+For every complex problem there is an answer that is clear, simple, and wrong.
+~H. L. Mencken
+^ 
+There are two ways of constructing a software design: 
+One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. 
+The first method is far more difficult.
+~C.A.R. Hoare
+^ 
+The software isn't finished until the last user is dead. 
+^
+Why do we never have time to do it right, but always have time to do it over?. 
+^
+The goal of Computer Science is to build something that will last at least until we've finished building it. 
+^
+Better train people and risk they leave - than do nothing and risk they stay. 
+^
+There is not now, and never will be, a language in which it is the least bit difficult to write bad programs. 
+^
+Just because you don't know a technology, doesn't mean you won't be called upon to work with it. 
+^
+The most likely way for the world to be destroyed, most experts agree, is by accident. 
+That's where we come in; we're computer professionals. We cause accidents. 
+~Nathaniel S. Borenstein
+^
+Good judgement comes from experience, and experience comes from bad judgement. 
+~Frederick P. Brooks
+^
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+~Bill Gates  
+^
+But in our enthusiasm, we could not resist a radical overhaul of the system, 
+in which all of its major weaknesses have been exposed, analyzed, and replaced with new weaknesses.
+~Bruce Leverett  
+^
+The best performance improvement is the transition from the non-working state to the working state.
+~John Ousterhout  
+^
+If the code and the comments disagree, then both are probably wrong.
+~Norm Schryer  
+^
+... nearly everybody is convinced that every style but their own is ugly and unreadable. 
+Leave out the "but their own" and they're probably right...
+~Jerry Coffin (on indentation) 
+^
+Rules of Optimization:
+Rule 1: Don't do it.
+Rule 2 (for experts only): Don't do it yet.
+~M.A. Jackson 
+^
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+^
+Any fool can use a computer. Many do.
+~Ted Nelson 
+^
+Debugging is twice as hard as writing the code in the first place. 
+Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+~Brian W. Kernighan 
+^
+It's not at all important to get it right the first time. It's vitally important to get it right the last time.
+~Andrew Hunt and David Thomas 
+^
+Remember that there is no code faster than no code. 
+~Taligent's Guide to Designing Programs
+^
+It's hard to read through a book on the principles of magic without glancing at the cover periodically to make sure it isn't a book on software design.
+~Bruce Tognazzini 
+^
+A language that doesn't have everything is actually easier to program in than some that do. 
+~Dennis Ritchie
+^
+If the automobile had followed the same development cycle as the computer, 
+a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside. 
+~Robert X. Cringely
+^
+There's an old story about the person who wished his computer were as easy to use as his telephone. That wish has come true, since I no longer know how to use my telephone. 
+~Bjarne Stroustrup
+^
+In theory, there is no difference between theory and practice. But, in practice, there is. 
+~Jan L. A. van de Snepscheut
+^
+Once a new technology starts rolling, if you're not part of the steamroller, you're part of the road.
+~Stewart Brand
+^
+If you have a procedure with ten parameters, you probably missed some. 
+^
+I did say something along the lines of "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off." 
+~Bjarne Stroustrup
+^
+UNIX is simple. It just takes a genius to understand its simplicity 
+~Dennis Ritchie
+^
+That's the thing about people who think they hate computers. What they really hate is lousy programmers.
+~Larry Niven and Jerry Pournelle Oath of Fealty
+^
+I have always found that plans are useless, but planning is indispensable.
+~Dwight Eisenhower
+^
+The perfect project plan is possible if one first documents a list of all the unknowns.
+~Bill Langley
+^
+There's no obfuscated Perl contest because it's pointless. 
+~Jeff Polk 
+^
+Software and cathedrals are much the same - first we build them, then we pray. 
+^
+If debugging is the process of removing bugs, then programming must be the process of putting them in. 
+~Edsger Dijkstra  
+^
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program. 
+~Linux 1.3.53 CodingStyle documentation  
+^
+A Perl program is correct if it gets the job done before your boss fires you. 
+~Larry Wall  
+^
+The evolution of languages: FORTRAN is a non-typed language. C is a weakly typed language. Ada is a strongly typed language. C++ is a strongly hyped language. 
+~Ron Sercely  
+^
+He who hasn't hacked assembly language as a youth has no heart. He who does as an adult has no brain. 
+~John Moore  
+^
+The camel has evolved to be relatively self-sufficient. On the other hand, the camel has not evolved to smell good. Neither has Perl. 
+~Larry Wall  
+^
+Don't get suckered in by the comments ... they can be terribly misleading. 
+~Dave Storer  
+^
+If you think good architecture is expensive, try bad architecture. 
+~Brian Foote and Joseph Yoder 
+^
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. 
+Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter. 
+~Nathaniel S. Borenstein  
+^
+If a million monkeys were typing on computers, one of them will eventually write a Java program. The rest of them will write Perl programs. 
+^
+Unix was not designed to stop people from doing stupid things, because that would also stop them from doing clever things. 
+~Doug Gwyn  
+^
+First you listen to the users; then you ignore them. 
+~Ken Arnold   
+^
+The hardest part of design ... is keeping features out. 
+~Donald Norman  
+^
+Computers are high-speed idiots, programmed by low-speed idiots 
+^
+The C language combines all the power of assembly language with all the ease-of-use of assembly language. 
+~Mark Pearce   
+^
+The key to understanding recursion is to begin by understanding recursion. The rest is easy. 
+~Koenig/Moo, Accelerated C++   
+^
+Linux sucks twice as fast and 10 times more reliably, and since you have the source, it's your fault. 
+^
+If Java had true garbage collection, most programs would delete themselves upon execution. 
+^
+Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live. 
+^
+C++ : an octopus made by nailing extra legs onto a dog. 
+^
+Python: executable pseudocode. Perl: executable line noise. 
+^
+In a room full of top software designers, if two agree on the same thing, that's a majority. 
+^
+If at first you don't succeed, call it version 1.0 
+~Pat Rice   
+^
+One: demonstrations always crash. 
+And two: the probability of them crashing goes up exponentially with the number of people watching. 
+~Steve Jobs   
+^
+There has never been an unexpectedly short debugging period in the history of computers. 
+~Steven Levy  
+^
+It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program 
+- such as where its bugs are. 
+~David Keppel  
+^
+Whoever thought of putting coders in noise-transparent cubicles needs to be beaten with a cluebat. 
+^
+I think there is a world market for maybe five computers
+~Thomas Watson, Chairman of IBM, 1943   
+^
+There is no reason why anyone would want a computer in the home. 
+~Ken Olson, Present, Chairman and founder of Digital Equipment Corporation, 1977  
+^
+But what... is it good for?
+~Engineer at the Advanced Computing Systems division of IBM, commenting on the microchip, 1968   
+^
+While a calculator on the ENIAC is equipped with 10000 vacuum tubes and weighs 30 tons, computers of the future may have only 1000 vacuum tubes and weigh only 1.5 tons.
+~Popular mechanics, 1949   

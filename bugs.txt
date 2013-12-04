@@ -1,0 +1,105 @@
+
+Always apply the latest updates' and 'If it ain't broke, don't fix it' are the two rules of system administration... 
+^ 
+If debugging is the process of removing software bugs, then programming must be the process of putting them in 
+^ 
+When the only tool you own is a hammer, every problem you encounter resembles a nail 
+^ 
+System Error: press F13 to continue... 
+^ 
+To err is human, but for a real disaster you need a computer 
+^ 
+Computers make very fast, very accurate mistakes 
+^ 
+If it works, leave it alone — there's no need to understand it. 
+If it fails, try to fix it — there's no time to understand it.
+~Bill Pfeifer. 
+^ 
+It's not that I'm surrounded by incompetence that bothers me, it's that I fit in so well.
+^ 
+Debugging is twice as hard as writing the code in the first place. 
+Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+— Brian W. Kernighan. 
+^ 
+We know about as much about software quality problems as they knew about the Black Plague in the 1600s. 
+We've seen the victims' agonies and helped burn the corpses. We don't know what causes it; we don't really know if there is only one disease. 
+We just suffer — and keep pouring our sewage into our water supply.
+— Tom Van Vleck. 
+^ 
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+^ 
+Would you rather Test-First, or Debug-Later?
+~Robert Martin. 
+^ 
+Don't worry, we have plenty of time to get the Nuclear Missile Launch program Y2K compliant, besides, I always code better after a few drinks.
+^ 
+Life would be so much easier if we only had the source code.
+^ 
+Who is this 'General Failure' and why is he reading my disk?
+^ 
+Programmers and old people have a lot in common. We're both always looking for ways to control leaks and dumps.
+~Ralf. 
+^ 
+It is easier to change the specification to fit the program than vice versa.
+^ 
+It is twice as difficult to debug a program as to write it. 
+Therefore, if you put all of your creativity and effort into writing the program, you are not smart enough to debug it.
+^ 
+Kevorkian Virus: helps your computer shut down whenever it wants to.
+^ 
+Error, no keyboard — press F1 to continue.
+^ 
+Cannot delete tmp150---3.tmp: There is not enough free disk space. 
+Delete one or more files to free disk space, and then try again.
+^ 
+When all else fails, read the instructions.
+~L. Iasellio. 
+^ 
+Computer system analysis is like child-rearing; you can do grievous damage, but you cannot ensure success.
+~Tom DeMarco. 
+^ 
+The memory management on the PowerPC can be used to frighten small children.
+~Linus Torvalds. 
+^ 
+When in doubt, use brute force.
+~Ken Thompson. 
+^ 
+If brute force doesn't solve your problems, then you aren't using enough.
+^ 
+The definition of an upgrade: Take old bugs out, put new ones in.
+^ 
+Evolution is God's way of issuing upgrades.
+^ 
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. 
+Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter. 
+~Nathaniel Borenstein. 
+^ 
+That's the thing about people who think they hate computers. What they really hate is lousy programmers.
+~Larry Niven. 
+^ 
+Each new user of a new system uncovers a new class of bugs.
+~Kernighan. 
+^ 
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+~Martin Golding. 
+^ 
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
+~Christopher Thompson. 
+^ 
+There are two ways of constructing a software design. 
+One way is to make it so simple that there are obviously no deficiencies. 
+And the other way is to make it so complicated that there are no obvious deficiencies.
+~C.A.R. Hoare. 
+^ 
+Q: How can you tell an extroverted computer geek from an introverted computer geek ?
+A: The introverted computer geek will look at his shoes while he talks to you. The extroverted computer geek will look at your shoes while he talks to you.
+^ 
+To work on a program with the compiler in debug mode and then to sell it compiling it without the debug option is like learning to swim with floaters and then taking them off to swim across the Atlantic.
+~My C professor. 
+^ 
+It's a little-known fact that the Y1K problem caused the Dark Ages.
+^ 
+As an ultimate incentive to solve the millennium bug computer problem, China has ordered its airline executives to take a flight on January 1, 2000.
+~The Financial Times. 
+^ 
+It's 11:59 on December 31 1999. In two minutes time, are you gonna be glad you don't have a bank account?

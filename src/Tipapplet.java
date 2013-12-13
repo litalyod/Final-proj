@@ -1,4 +1,5 @@
-import Func.help;
+
+import FileFunctions.*;
 
 import java.awt.*;
 import java.io.BufferedReader;
@@ -25,6 +26,7 @@ public class Tipapplet extends JApplet implements Runnable {
 	Thread runner, t;
 	int count = 0;
 	String[] quotes;
+	int optTipLength = 0;
 	
 
 	String fileList = "bugs.txt,compQuotes.txt,cpp.txt,general.txt";
@@ -78,12 +80,14 @@ public class Tipapplet extends JApplet implements Runnable {
 		txtArea.setEditable(false);
 		txtArea.setFont(new Font("TimesRoman", Font.LAYOUT_LEFT_TO_RIGHT, 16));
 		add(txtArea);
+		optTipLength = TipLength.CalcTipOptLength(fileList.split(","));
+		System.out.println(optTipLength);
 
 	}
 	
 	public boolean ReadNewQuote() {
 		if (count == 0) {
-			int randomFileIndex = help.calcRandomFileIndex(weights, fileList);
+			int randomFileIndex = RandomFile.calcRandomFileIndex(weights, fileList);
 			String[] files = fileList.split(",");
 			fileToRead = files[randomFileIndex];
 			String prHtml = this.getParameter("fileToRead");
@@ -99,7 +103,14 @@ public class Tipapplet extends JApplet implements Runnable {
 			quotes = context.split("\\^");
 		}
 		quote.delete(0, quote.length());
-		quote.append(help.nextTip(quotes));
+		
+		String tip = ReadTip.nextTip(quotes);
+		
+		while (tip.length() > optTipLength) {
+			tip = ReadTip.nextTip(quotes);
+		}
+		
+		quote.append(tip);
 		count++;
 		if (count > NUM_QUOTES_FROM_SAME_FILE) {
 			count = 0;

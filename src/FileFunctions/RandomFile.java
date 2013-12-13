@@ -1,6 +1,7 @@
-package Func;
+package FileFunctions;
 
-public class help {
+public class RandomFile {
+	
 	public static int calcRandomFileIndex(int[] weights, String fileList) {
 		int sumWeights = 0;
 		for (int i = 0; i < weights.length; i++) {
@@ -16,12 +17,5 @@ public class help {
 			}
 		}
 		return randomFileIndex;
-	}
-
-	public static String nextTip(String[] quotes) {
-		int randomQuoteIndex = (int) Math.round((quotes.length - 1)
-				* Math.random());
-		String quote = quotes[randomQuoteIndex];
-		return quote;
 	}
 }

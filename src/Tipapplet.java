@@ -81,7 +81,6 @@ public class Tipapplet extends JApplet implements Runnable {
 		txtArea.setFont(new Font("TimesRoman", Font.LAYOUT_LEFT_TO_RIGHT, 16));
 		add(txtArea);
 		optTipLength = TipLength.CalcTipOptLength(fileList.split(","));
-		System.out.println(optTipLength);
 
 	}
 	
@@ -111,6 +110,7 @@ public class Tipapplet extends JApplet implements Runnable {
 		}
 		
 		quote.append(tip);
+		quote.append(optTipLength);
 		count++;
 		if (count > NUM_QUOTES_FROM_SAME_FILE) {
 			count = 0;

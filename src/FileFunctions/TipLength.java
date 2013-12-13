@@ -49,6 +49,36 @@ public class TipLength {
 		}
 
 	}
+/*	
+	private static StringBuffer ReadTipFile(String fileName) {
+		StringBuffer strBuff;
+		strBuff = new StringBuffer();
+		String line;
+		
+		BufferedReader bf;
+		try {
+			bf = new BufferedReader(new FileReader("C:/quotes/"+fileName));
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+			return null;
+		}
+		try {
+			while ((line = bf.readLine()) != null) {
+				strBuff.append(line + "\n");
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		}
+		try {
+			bf.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		}
+		return strBuff;
+
+	}*/
 
 	private static int FindOptTipLength(String[] tips) {
 		int[] sizeTip = new int[tips.length];
@@ -57,7 +87,7 @@ public class TipLength {
 			sizeTip[i] = tips[i].length();
 		}
 
-		int numOfWantedTips = (int) 0.95 * sizeTip.length;
+		int numOfWantedTips = (int) Math.round(0.95 * tips.length);
 		BubbleSort(sizeTip);
 		return sizeTip[numOfWantedTips];
 	}

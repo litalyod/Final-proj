@@ -1,0 +1,268 @@
+
+... should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary.  
+~Author Unknown
+^
+... with proper design, the features come cheaply. This approach is arduous, but continues to succeed. 
+~Dennis Ritchie 
+^
+Quality is Free 
+~Philip Crosby
+^
+...if you're afraid to change something it is clearly poorly designed. 
+~Martin Fowler
+^
+Programmer - an organism that turns coffee into software.  
+~Author Unknown
+^
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  
+~Martin Golding
+^
+...and then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, 
+while computer programmers are smart people with the ability to do incredibly stupid things.  
+They are, in short, a perfect match.  
+~Bill Bryson
+^
+Any fool can write code that a computer can understand.  Good programmers write code that humans can understand.  
+~Martin Fowler
+^
+Controlling complexity is the essence of computer programming.  
+~Brian Kernighan
+^
+Writing the first 90 percent of a computer program takes 90 percent of the time.  
+The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.  
+~N.J. Rubenking
+^
+Good code is its own best documentation.  As you're about to add a comment,  ask yourself, "How can I improve the code so that this comment isn't needed?"  
+~Steve McConnell
+^
+Great software, likewise, requires a fanatical devotion to beauty.  If you look inside good software, you find that parts no one is ever supposed to see are beautiful too.  
+~Paul Graham, "Hackers and Painters," 2003
+^
+One man's crappy software is another man's full time job.  
+~Jessica Gaston
+^
+If debugging is the process of removing bugs, then programming must be the process of putting them in.  
+~Edsger Dijkstra
+^
+It's okay to figure out murder mysteries, but you shouldn't need to figure out code.  You should be able to read it.  
+~Steve McConnell
+^
+We should forget about small efficiencies, say about 97% of the time:  premature optimization is the root of all evil.  
+~C.A.R. Hoare, quoted by Donald Knuth
+^
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, 
+and the Universe trying to produce bigger and better idiots.  
+So far, the Universe is winning.  
+~Rich Cook
+^
+Programs for sale:  fast, reliable, cheap - choose two.  
+~Author Unknown
+^
+The only way for errors to occur in a program is by being put there by the author.  
+No other mechanisms are known.  
+~Harlan Mills
+^
+When debugging, novices insert corrective code; experts remove defective code.  
+~Richard Pattis
+^
+Simplicity is the soul of efficiency. 
+~Austin Freeman (in The Eye of Osiris) 
+^
+...it is simplicity that is difficult to make. 
+~Bertholdt Brecht 
+^
+I have yet to see any problem, however complicated, 
+which, when you looked at it in the right way, did not become still more complicated. 
+~Poul Anderson 
+^
+There are two ways of constructing a software design. 
+One way is to make it so simple that there are obviously no deficiencies. 
+And the other way is to make it so complicated that there are no obvious deficiencies. 
+~C.A.R. Hoare 
+^
+...with proper design, the features come cheaply. This approach is arduous, but continues to succeed. 
+~Dennis Ritchie 
+^
+Premature optimization is the root of all evil in programming. 
+~C.A.R. Hoare 
+^
+The key to performance is elegance, not battalions of special cases. 
+The terrible temptation to tweak should be resisted unless the payoff is really noticeable. 
+~Jon Bentley and Doug McIlroy 
+^
+The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt. 
+~Bertrand Russell 
+^
+Luck is the residue of design. 
+~Branch Rickey 
+^
+A charlatan makes obscure what is clear; a thinker makes clear what is obscure. 
+~Hugh Kingsmill 
+^
+Anybody who thinks a little 9,000-line program that's distributed free and can be cloned by anyone is going to affect anything we do at Microsoft has his head screwed on wrong. 
+~Bill Gates, regarding Java 
+^
+Good judgement is the result of experience. Experience is the result of bad judgement. 
+~Fred Brooks 
+^
+A language that doesn't have everything is actually easier to program in than some that do. 
+~Dennis Ritchie 
+^
+A designer can mull over complicated designs for months. 
+Then suddenly the simple, elegant, beautiful solution occurs to him. 
+When it happens to you, it feels as if God is talking! And maybe He is. 
+~Leo Frankowski
+(in The Cross-Time Engineer) 
+^
+Learning research tells us that the time lag from experiment to feedback is critical  
+~Kent Beck
+^
+The greatest obstacle to discovery is not ignorance, but the illusion of knowledge. 
+~Daniel Boorstin 
+^
+There is nothing permanent except change. 
+~Heraclitus 
+^
+The hardest part of design ... is keeping features out. 
+~Donald Norman
+^
+Beauty is more important in computing than anywhere else in technology because software is so complicated. 
+Beauty is the ultimate defense against complexity. 
+~David Gelernter in Machine Beauty: Elegance and the Heart of Technology 
+^
+The fulcrum of design decisions is change. 
+Separate those things that change for different reasons. 
+Group together those things that change for the same reason. 
+~Robert Martin
+^
+Every time you voluntarily duplicate code, a fairy dies
+~Anonymous 
+^
+With the software in production, fixing bugs is akin to repairing a car while it is driving down the road, 
+long after it has left the drawing board, the assembly line, and the dealer lot. 
+It's as expensive to do as it can possibly be.
+~Anonymous 
+^
+Quality is free, but only to those who are willing to pay heavily for it
+~T. DeMarco and T. Lister
+^
+The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten
+~Anonymous
+^
+More than the act of testing, the act of designing tests is one of the best bug preventers known. 
+The thinking that must be done to create a useful test can discover and eliminate bugs before they are coded ... 
+discover and eliminate bugs at every stage in the creation of software, from conception to specification, to design, coding and the rest.” 
+~Boris Beizer
+^
+The only certainties in life are death, taxes and bugs in code.” 
+~Anonymous
+^
+Why do we never have time to do it right, but always have time to do it over?
+~Anonymous
+^
+f u cn rd ths, u cn gt a gd jb n sftwr tstng
+~Anonymous
+^
+Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable happening to the anonymous
+~James Bach
+^
+I love deadlines. I like the whooshing sound they make as they fly by
+~Douglas Adam
+^
+Programming is like sex.  One mistake and you have to support it for the rest of your life
+~Michael Sinz
+^
+Quality is everyone's responsibility.
+~W. Edwards Deming 
+^
+All anyone asks for is a chance to work with pride.
+~W. Edwards Deming 
+^
+Learning is not compulsory... neither is survival.
+~W. Edwards Deming
+^
+Quality is Free
+~Philip Crosby
+^
+Eliminating what is not wanted or needed is profitable in itself.
+~Phil Crosby
+^
+It's fine to celebrate success but it is more important to heed the lessons of failure.
+~Bill Gates 
+^
+One of the most valuable rules is avoid duplication 
+~Martin Fowler
+^
+People also underestimate the time they spend debugging. 
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately 
+~Martin Fowler
+^
+When you actually sit down to write some code, you learn things that you did not get from thinking about them in modeling terms...
+there is a feedback process there that you can only really get at from executing some things and seeing what works 
+~Martin Fowler
+^
+...by simply removing duplication I accidentally stumble onto a really nice elegant pattern. 
+It's quite remarkable how often that is the case 
+~Martin Fowler
+^
+Duplicated code is a bad smell. Long methods are a bad smell. Big classes are a bad smell. 
+~Martin Fowler
+^
+What is the business case of good design? It's that you can make changes to the software more easily in the future. 
+~Martin Fowler
+^
+...if you're afraid to change something it is clearly poorly designed. 
+~Martin Fowler
+^
+Each pattern describes a problem which occurs over and over again in our environment, 
+and then describes the core of the solution to that problem, 
+in such a way that you can use this solution a million times over, 
+without ever doing it the same way twice 
+~Christopher Alexander
+^
+It takes three times the effort to find and fix bugs in system test than when done by the developer. 
+It takes ten times the effort to find and fix bugs in the field than when done in system test. 
+Therefore, insist on unit tests by the developer
+~Larry Bernstein 
+^
+Only 40-60% of the system requirements are known at the state of the project. 
+The rest emerge from system use. 
+Barry Boehm coined the phrase ‘emergent requirements' to describe them
+~Larry Bernstein - in Trustworthy Systems through Quantitative Software Engineering
+^
+If it ain’t broke, fix it anyway. 
+You must invest least 20% of your maintenance budget in refreshing your architecture to prevent good software from becoming spaghetti code
+~Larry Bernstein
+^
+What we have to learn to do, we learn by doing
+~Aristotle
+^
+The danger from computers is not that they will eventually get as smart as men, but that we will meanwhile agree to meet them halfway
+~Bernard Avishai - From "Charades" an internet collection of quotations.         
+^
+Throw away your bag of tricks. Be truly clever: Write boring code
+~Steve Maguire - Writing Solid Code
+^
+Don't write multi-purpose functions. Write separate functions to allow stronger argument validation
+~Steve Maguire
+^
+Use assertions to validate all function arguments
+~Steve Maguire
+^
+Write and test code in small chunks
+~Steve Maguire
+^
+Don't implement non-strategic features. There is no free lunch
+~Steve Maguire
+^
+Enable all compiler warnings
+~Steve Maguire
+^
+Never allow the same bug to bite you twice
+~Steve Maguire
+^
+If it's worth asking the user, it's worth the program remembering
+~Alan Cooper, About Face
+^
+No crisis inside a computer is worth humiliating a human
+~Alan Cooper, About Face

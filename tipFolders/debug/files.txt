@@ -1,0 +1,3 @@
+9 indispensible rules.txt,bugs.txt,data collection PDC.txt,data collection.txt,efficiency.txt,getting unstuck.txt,narrowing down.txt,reproduction.txt,the game of debugging.txt
+^
+50,170,80,100,60,130,70,90,110

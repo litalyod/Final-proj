@@ -1,0 +1,55 @@
+What is the most basic level, that the phenomena still happens? 
+
+Narrow down what the problem is 
+
+What are the problem boundaries? 
+
+In what specific circumstances does the problem happen? 
+
+What is the exact point of failure? 
+
+In what subsystem, or package does the problem occur? 
+
+Zero in 
+
+Narrowing down helps to pin responsibility 
+
+Observe the bug happening, a number of times 
+
+What is the root cause? 
+
+What component is causing the failure? 
+^
+Isolate the problem 
+^
+What data collection could help you narrow down the problem? 
+^
+Compare to historical logs or data to find out when the problem began 
+^
+Where in the flow does the failure happen? 
+^
+When in the software development, did the problem begin to happen? 
+^
+If the problem is recent, what were the recent code changes in code related to the failure? 
+^
+Did the problem occur in the previous version? 
+^
+What are the code changes relative to the previous version? 
+^
+Check at the interface between subsystems. Is the problem already there, at the interface call? 
+^
+Narrowing down the problem helps decide if the bug is in your jurisdiction or not 
+^
+Is it a hardware or software problem? 
+^
+Does the problem occur consistently across other configurations? 
+^
+Does the problem occur consistently across other hardware? 
+^
+Narrowing down the problem helps in figuring out who you can discuss the problem with 
+^
+Drill down 
+^
+What functionality options can you turn off? Does the problem still occur 
+^
+To narrow down the problem, you need to be able to reproduce the problem 

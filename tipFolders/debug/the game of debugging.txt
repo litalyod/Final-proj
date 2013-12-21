@@ -1,0 +1,86 @@
+You are measured not only by your ability to resolve particularly nasty bugs, but also on how you manage your bug case load. 
+^
+Your objective is supplying the maximum fix value, given a set of bugs
+^
+Your objective is fixing the important bugs, with limited interference with your feature development work 
+^
+Reflect on and verify bug priorities 
+^
+A bug’s priority changes across time as it becomes better understood 
+^
+It’s not just about being able to resolve nasty bugs; it’s about being able to do it efficiently 
+^
+Once you have verified the bug’s root cause, stop and reflect about its true priority 
+^
+Being efficient in bug fixing includes the time spent, but also the mental and emotional effort invested 
+^
+Debugging can be seen as a game 
+^
+Strive to get better at debugging, as time passes 
+^
+Strive to reduce the stress involved in the debugging process 
+^
+Work systematically 
+^
+Have you truly discovered the root cause? 
+^
+Have you uncovered the true extent of the bug? 
+^
+It’s not just about discovering the root cause, it’s also about the quality of your fix 
+^
+Work on the highest priority bug first 
+^
+You don’t have to be brilliant to be good at debugging. 
+^
+Don’t waste time on bugs marked as important, but aren’t 
+^
+Don’t waste time on bugs that somebody else can handle better than you 
+^
+Why is the bug important? 
+^
+Before starting work on a bug, stop! How important is it really? 
+^
+Resolving nasty bugs takes time, patience, and technique 
+^
+Handle the bug case load 
+^
+Working on 2 similar bugs in sequence can sometimes be more efficient 
+^
+Understand when you are stuck, and stop. 
+^
+Keeping calm is the mark of a professional 
+^
+Reflect back at the end of a day of debugging. How do you feel? Do you have some energy left, or are you spent? Why is this? 
+^
+To get better at debugging, reflect on how you worked the bug, and what was most helpful 
+^
+Don’t jump too quickly to conclusions 
+^
+Hold all data and conclusions as suspect 
+^
+Debugging work can take it out of you. Don’t judge yourself too harshly 
+^
+Be curious 
+^
+At its best, debugging leaves you actually energized!
+^
+Strive to manage your debugging efforts so that there is a limited effect on your regular feature development work 
+^
+It’s also about how responsive you are in general, to reported bugs 
+^
+A day you learnt something new is a successful day 
+^
+Study debugging principles, practices and theory 
+^
+At the end of day spent on debugging, have you learnt anything new? 
+^
+There is no bug free software 
+^	
+Reduce the effort you put into debugging, by better testing and reviewing the features you develop. 
+^
+Use other’s help 
+^
+Relax 
+^
+Stay curious 
+

@@ -1,0 +1,83 @@
+<Context is very important here> 
+
+Play with the inputs 
+
+Try to figure out the inputs that caused the problem 
+
+Trying reproducing with the debugger, making the final stage of the failure happen 
+
+Reproduction is a key part of the debugging process 
+
+Reproduction is usually essential for truly understanding the bug 
+
+If you can reproduce the bug, you can verify whether your fix has solved the problem. 
+
+Understanding of the relevant code leads to thinking of potential reasons for failure, and in turn can help in reproducing the bug 
+
+Try using inputs as similar as possible to the production environment 
+
+Work at understanding the sequence, and the point of failure within the sequence. This in turn can help reproducing the bug 
+
+At first, try the simplest reproduction scenario. Many times, it’s as simple as that 
+
+Try running many times. Try reducing the cycle time, so that you can run even more times 
+
+Once you have found a way to reproduce the bug, see if you can reproduce it even more simply. This will help you better understand the bug, and make your subsequent work on the bug more efficient 
+
+Use real inputs 
+
+Study the flow, in the log and the bug report, and then try reproducing exactly the same flow. 
+
+If you can’t reproduce in the development environment, try reproducing in the production environment. 
+
+Ask the bug reporter to reproduce the bug for you, and collect specific data 
+
+Ask the bug reporter to reproduce the bug, and let you see it with your own eyes 
+
+Some bugs are caused by a very specific set of input, and thus can only be reproduced with that specific set of inputs 
+
+Sometimes when you are not able to reproduce the bug, you can at least reproduce part of it, e.g. the final stage of failure. Then you can try to think back from the partial failure mechanism to the general failure mechanism. 
+
+Ask the bug reporter how he reproduces the bug 
+
+Ask the bug reporter how common the bug is. This will indicate if the bug is reproduced only for a specific circumstance, or is more general 
+
+Ask to see the bug reproduced, and watch it reproduced a number of times. 
+
+Review the bug report, with the person reporting the bug 
+
+Once you have reproduced the bug, find the minimal way to reproduce it. This will teach you more about the bug, and make your work more efficient when fixing it 
+^
+Working at finding the simplest way to reproduce the bug helps you to get at the essence of the bug. 
+^
+Once you have reproduced the bug, work on finding where do the boundaries of the bug lie. What variances of circumstances still cause the bug to happen, and what variances make the bug disappear. 
+^
+Once you know how to reproduce, reproduce a number of times, and just observe. 
+^
+Once you have reproduced the bug, try reproducing again. Does it reproduce consistently? 
+^
+Reproduce the bug a number of times, and try to see if there’s some pattern 
+^
+Reproduce the bug, and check what parts of code the failure flows thru 
+^
+Reproducing the bug does not mean you necessarily understand the root cause 
+^
+Sometimes, you will not be able to reproduce the bug, and have to resort to other measures. 
+^
+If the bug can’t be reproduced consistently, can you add automatic data collection for when it happens next time? 
+^
+Sometimes, the path to reproduction is via gaining general understanding of the reported flow 
+^
+When the bug is reproduced inconsistently, compare the log of a reproduction with the log of a successful flow. 
+^
+Start by trying to reproduce in your development environment. If you manage to reproduce, you will have much more time, and more tools to tackle the bug 
+^
+Work with as similar circumstances to the ones when the bug happened as possible. 
+^
+Ask for help to reproduce the bug 
+^
+When you have reproduced the bug, ask yourself: have you reproduced the same bug as the one reported? 
+^
+Bug reproduction is many times tough 
+^
+If you  can’t reproduce the bug, can you reproduce some of its symptoms? 

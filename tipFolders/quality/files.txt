@@ -1,0 +1,3 @@
+professionalism.jpg,Software_Testing_Checklist.gif,software-testing-bug-costs.gif,Toyota quality for SW development.txt
+^
+50,170,80,100

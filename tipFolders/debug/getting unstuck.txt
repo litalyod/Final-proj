@@ -1,0 +1,19 @@
+Ask yourself: what now? Then give yourself some time. 
+^
+What logging can you add to the software, so that you have more information the next time the bug occurs? 
+^
+Who can you talk to about this bug? 
+^
+Be impatient to get results. If you’re spending hours in a certain direction with no results, stop. 
+^
+Go get yourself some coffee 
+^
+Take a walk 
+^
+Sit back and relax 
+^
+Register feelings of frustration, and anger. If you’re feeling these, take a break. 
+^
+Take a break from time to time. 
+^
+Beware of using the debugger. The debugger is many times a sink hole for your effort and time. 

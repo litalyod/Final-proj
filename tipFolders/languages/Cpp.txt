@@ -1,0 +1,52 @@
+
+Fifty years of programming language research, and we end up with C++ ??? 
+~Richard A. O'Keefe 
+^ 
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind 
+~Alan Kay, creator of Smalltalk 
+^ 
+C++: Hard to learn and built to stay that way 
+^ 
+Java is, in many ways, C++-- 
+~Michael Feldman 
+^ 
+Friends, much as in real life, are often more trouble than their worth 
+~Scott Meyers on friend functions in C++ 
+^ 
+Writing in C or C++ is like running a chain saw with all the safety guards removed 
+~Bob Gray 
+^ 
+Ever spend a little time reading comp.lang.c++ ? That's really the best place to learn about the number of C++ users looking for a better language 
+~R. William Beckwith 
+^ 
+The evolution of languages: FORTRAN is a non-typed language. C is a weakly typed language. Ada is a strongly typed language. C++ is a strongly hyped language 
+~Ron Sercely 
+^ 
+PL/I and Ada started out with all the bloat, were very daunting languages, and got bad reputations (deservedly). 
+
+C++ has shown that if you slowly bloat up a language over a period of years, people don't seem to mind as much 
+~James Hague. 
+^ 
+What is the object oriented way of getting rich ? 
+- Inheritance 
+^ 
+C(++) is a write-only, high-level assembler language 
+~Stefan Van Baelen 
+^ 
+C++ has it's place in the history of programming languages. 
+Just as Caligula has his place in the history of the Roman Empire ? 
+~Robert Firth 
+^ 
+C++ : Where friends have access to your private members 
+~Gavin Russell Baker 
+^ 
+C++ would make a decent teaching language if we could teach the ++ part without the C part 
+~Michael B. Feldman 
+^ 
+The great thing about Object Oriented code is that it can make small, simple problems look like large, complex ones
+^ 
+In C++ it's harder to shoot yourself in the foot, but when you do, you blow off your whole leg
+~Bjarne Stroustrup 
+^ 
+Hybrid ('half-assed') object languages like C++ are worst of all, 
+as they unite the simplicity of Brainf*ck with the inherent security of C and the speed of Perl

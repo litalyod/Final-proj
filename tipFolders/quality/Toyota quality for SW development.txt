@@ -1,0 +1,1398 @@
+Learn from others
+^
+Continue learning
+^
+Learn from what already exists
+^
+Check how others are doing it
+^
+Analyze your different alternatives
+^
+Work together with your clients
+^
+Design quality into your development process
+^
+Compare yourself to others
+^
+Work closely with your clients
+^
+Learn from the success of others
+^
+Learn the practices of successful others
+^
+Strive to develop deeper understanding
+^
+Get rid of wastes
+^
+Continuously work at improvement
+^
+Quality means getting different elements to work well together as a system
+^
+Quality must be practiced every day
+^
+Whatever you do, do consistently
+^
+Find models to learn from.
+^
+Strive to continuously improve
+^
+Employ long term thinking
+^
+Invest in learning
+^
+The right process will produce the right results
+^
+Strive to work continuously on development tasks
+^
+Refine your development process to quickly surface hidden problems
+^
+Address quickly those problems that have surfaced
+^
+Communicate what you learnt to others
+^
+Standardize best-known practices
+^
+Stability is important
+^
+Look beyond the short-term
+^
+Strive for consistency
+^
+Strive for consistency in your product
+^
+One aspect of quality is reliability
+^
+Work on streamlining your development process
+^
+Strive for consistent high quality
+^
+Build products that keep on working, without problems
+^
+Understand your clients
+^
+Strive for deep understanding of quality principles and tools
+^
+Define and clarify the value you client gains from your product
+^
+Remove those activities that create waste, instead of adding value
+^
+Focus on eliminating waste
+^
+Strive to work continuously on development tasks
+^
+Reduce the amount of work in progress
+^
+Improving quality takes time
+^
+Improving quality takes hard work
+^
+Understand the customer
+^
+Reduce the variation in your development process
+^
+Work out the manual process, before considering automation
+^
+Work in progress sitting and waiting to be worked on, is a waste
+^
+Ask yourself: what value am I adding from the customer’s perspective?
+^
+Improve the time it takes you to transition from task to task
+^
+Develops standards for your work
+^
+Work on the highest priority tasks first
+^
+Error proof your development process
+^
+Quality principles, tools and practices should be an integral part of the way you think about work.
+^
+Reduce the time it takes you to transition from task to task
+^
+Reduce the amount of work in progress
+^
+There is always room for improvement
+^
+Strive to be world-class
+^
+Develop consistency of purpose
+^
+Work on sustaining your quality improvement efforts
+^
+Challenge yourself
+^
+Solving problems helps you develop professionally
+^
+Constantly work on improving your development processes
+^
+Constantly search for innovative ways to satisfy your customers
+^
+One aspect of quality is consistency
+^
+Cut down the slack time in your development process
+^
+Practice endless tinkering
+^
+Practice endless innovation
+^
+Strive to both be more efficient, and produce higher quality software
+^
+Experiment
+^
+Use trial and error
+^
+When something goes wrong, stop!
+^
+Build in error detection into your development process, development tools, and software products
+^
+Devise “mistake proofing”
+^
+Deepen your software engineering skills
+^
+Always strive for self-improvement
+^
+Show initiative
+^
+Consider also efficiency
+^
+Value hard work
+^
+Value perseverance
+^
+Value discipline
+^
+Accumulate facts before making decisions
+^
+Work on tasks according to priorities
+^
+Learn from a wide range of sources
+^
+Get ideas from a wide range of sources
+^
+Study others’ practices
+^
+Accept responsibility for your mistakes
+^
+Think beyond immediate concerns about the long term good
+^
+Continue to study your profession
+^
+Develop reliability
+^
+Value reliability in others
+^
+Learn by doing
+^
+Learn, teach and promote quality principles, tools, and practices
+^
+Think deeply about problems based on actual facts
+^
+Test out new ideas
+^
+Adapt others’ ideas to suit your own needs
+^
+Strive for always increasing your productivity
+^
+Shorten switch times between tasks
+^
+Having many tasks in progress, can hide problems that go undetected for weeks
+^
+Keep your workplace organized
+^
+Strive to work continuously on development tasks
+^
+New task allocations should be triggered by completing assigned tasks
+^
+Refine your development process to be responsive to changes in customer requirements
+^
+Strive to exceed customer requirements
+^
+See the person testing your work, as your customer
+^
+Work in Design-Implement-Test-Fix cycles
+^
+Work on continuous incremental improvement, along with the big change initiatives
+^
+Strive for as much consensus as possible, when making decisions
+^
+Teach quality principles, tools, and practices to others
+^
+Focusing on quality improves productivity, more than focusing on productivity
+^
+Eliminate waste
+^
+Be pragmatic
+^
+Relentlessly work to achieve your goals
+^
+Lead by example
+^
+Perfect your development process based on trial and error
+^
+Continuously work on improving your skills
+^
+Read books written by others in your profession
+^
+Eliminate waste
+^
+Show respect to others
+^
+Good quality means having all elements work well together as a system
+^
+Quality needs to be practiced daily
+^
+Go see how your product is used
+^
+Get rid of activities that don’t add value
+^
+Work systematically
+^
+Analyze the development process from the customer’s perspective
+^
+Classify your development process steps into value adding and none value adding
+^
+Make sure you have all the information you need, before you start implementing
+^
+Developing functionality that no one uses is a waste
+^
+Waiting for something to happen, is a waste
+^
+Over design is a waste
+^
+Excess work in progress is a waste
+^
+Excess work in progress delays the detection of problems
+^
+Buggy work is a waste
+^
+Having to fix bugs is a waste
+^
+Having to do rework is a waste
+^
+Consult others for ideas for improvement
+^
+Listen to others
+^
+The most fundamental waste is producing functionality no one uses
+^
+If you don’t detect problems early, it will take much more time and effort to fix them later
+^
+Study your software development process
+^
+Note the time you spend in different phases of the development process
+^
+Reduce the time needed to detect problems
+^
+Strive to be flexible to changes in customer requirements
+^
+Focus on value as a whole, not just on local inefficiencies
+^
+Most development processes spend little time in the value adding steps, and most of the time in the non-value adding steps. Because of this, you must also focus on eliminating or reducing the non-value adding steps
+^
+Strive to work continuously on your development task
+^
+Work should be strongly related to customer requirements
+^
+Highly complicated systems or technology tend to break down more frequently, and are less reliable
+^
+Learn through doing
+^
+Teach quality principles, tools and practices to others
+^
+Strive to never letting a bug work itself into the system
+^
+Strive to standardize your development process
+^
+Search for ways to improve the reliability of your development process, and your software tools
+^
+Level out your work, to eliminate periods of high stress
+^
+Strive to produce work, at a standard pace
+^
+Reducing the work in progress causes problems to be more immediately visible
+^
+Solve problems immediately
+^
+When a defective work is detected, stop whatever you’re doing, and address the problem
+^
+Stopping the work when defective work is detected, forces you to fix the problem and quickly
+^
+Stopping the work when defective work is detected creates a sense of urgency
+^
+Identify recurring problems, and address them
+^
+In order that your development work not be frequently stopped because of identified problems, the development process must achieve a high level of error proofing
+^
+A high level of stability can only be achieved by continuous improvement
+^
+Train yourself to see waste
+^
+Train yourself to solve problems thoroughly
+^
+Get to the root causes of problems, by asking why a number of times.
+^
+Trigger the supply of more work, based on the advancement of your current work
+^
+Setup a system to signal that additional work is needed
+^
+Organize your development process to ferret out bugs
+^
+Strive for deep understanding
+^
+Be active in making improvement suggestions
+^
+Work at getting involvement from others
+^
+Strive to continually improve
+^
+Cleanup the workspace
+^
+It’s not enough to implement quality improvement initiatives. They need to be sustained.
+^
+Utilize training
+^
+Make decisions that consider the long term
+^
+Focus on generating value for the customer
+^
+Accept responsibility for your actions
+^
+Improve your skills
+^
+Minimize your work in progress
+^
+Level out the work across time
+^
+Stress causes defective, buggy work
+^
+Stop and fix problems
+^
+Get quality right the first time
+^
+Use tools and software that detect defective work and bugs automatically
+^
+Standards of work are the basis for continuous improvement
+^
+Strive for predictability
+^
+Capture accumulated learning into standardized practices
+^
+Find ways to improve on the standard
+^
+What systems can support you getting the work done?
+^
+Communicate efficiently
+^
+Technology must be subordinate to the needs of the work
+^
+Work out the process manually, before considering automation
+^
+New technology is often less reliable
+^
+Conduct tests and pilots before general adoption of a new technology
+^
+Look into new technologies
+^
+Work on your self-development
+^
+Help others develop
+^
+Strive to be exceptional
+^
+Use the perspective of others, when addressing problems and devising solutions
+^
+Go to the source of problems
+^
+Personally observe reported problems, as they are reproduced by the user
+^
+Gather information from others, but also check the data yourself
+^
+Strive to get as much consensus as possible on decisions
+^
+Generate many alternatives, and thoroughly consider them
+^
+Discuss issues with all those involved, to get maximum input, and commitment to the selected solution.
+^
+Reflect frequently on what you do
+^
+Strive to retain important knowledge
+^
+Use reflection at key milestones
+^
+Develop countermeasures for recurring issues
+^
+Promote your learning, by standardizing the best practices
+^
+Develop principles and practices that are right for you
+^
+Deploy standardized practices
+^
+Challenge yourself
+^
+Never be complacent
+^
+Strive always to be advance, and better yourself
+^
+Strive to be on par with the best
+^
+Teach others, less experienced than you
+^
+Listen to your customers
+^
+Compare your work to established benchmarks
+^
+Understand your customer’s perspective
+^
+Understand how your customer uses your product
+^
+Communicate efficiently, using short documents
+^
+Ask yourself what is a high quality product, from the customer’s perspective
+^
+Prioritize
+^
+Challenge yourself to “this yet that”, instead of “either this or that”
+^
+Get to and address the root cause of issues and problems
+^
+Strive to for solutions that answer all concerns, instead of compromises
+^
+Try to do the impossible
+^
+Try doing it, instead of theorizing whether it’s possible
+^
+How can you speed up the learning process?
+^
+Learn by doing
+^
+High quality translates to success
+^
+Innovation is contagious
+^
+Practice courage
+^
+Develop a sense of urgency for improvement
+^
+Innovate in new ideas in the development process and in new technologies
+^
+Set bold targets
+^
+Consider new technologies
+^
+Set yourself aggressive deadlines
+^
+Develop deep and broad knowledge
+^
+Utilize the diverse perspective of others to work on problems, and devise solutions
+^
+Thoroughly discuss multiple alternatives, before narrowing on one
+^
+Start with the concept, and gradually advance to the details
+^
+Consider practicality
+^
+Consider convenience
+^
+Consider the customer ease of use
+^
+Consider side effects of your work
+^
+Each element should be responsible for doing what it does best
+^
+Use only reliable, thoroughly tested technology
+^
+Select the finest 3rd party packages
+^
+Select 3rd party packages which will have a fine fit with the rest of the software
+^
+Work systematically
+^
+Set yourself high standards
+^
+Evaluate new technologies
+^
+Develop prototypes to test your concept
+^
+Do thorough research
+^
+Stray away from compromise
+^
+Strive to shorten your development cycle
+^
+Use the help of others to attack exceptionally hard problems
+^
+Meet deadlines
+^
+High quality leads to success
+^
+Think long term
+^
+Promote high levels of communication
+^
+Strive for high levels of communication
+^
+Strive for efficient communication
+^
+Communicate your status frequently
+^
+Communicate often
+^
+Utilize the diverse perspective of others when addressing problems.
+^
+Involve others early in the design process
+^
+Strive for high levels of cooperation with the different groups working on the product
+^
+Strive to reduce the switching costs between tasks
+^
+Value perseverance in the face of odds
+^
+Pursue leadership slowly, only after you have gained the necessary experience, and proved your worth
+^
+When pursuing leadership, focus on both technical skills, and leadership skills
+^
+Strive for the exceptional
+^
+Set yourself the most challenging goals
+^
+Step back and reflect
+^
+Develop a “no-compromise” attitude
+^
+Develop and analyze multiple alternatives
+^
+Continue experimenting
+^
+Continue trying out new ideas
+^
+Consult with others
+^
+Focus on the long term
+^
+Invest and develop yourself and your skills
+^
+Invest in your development environment
+^
+Develop a sense of purpose
+^
+Do the right thing
+^
+Develop a passion for quality improvement
+^
+Develop a passion for productivity
+^
+Be fair to your customer
+^
+Be fair to others
+^
+Build trust with others
+^
+Continue learning how to improve quality
+^
+Teach others how to improve quality
+^
+Practice what you preach
+^
+Appreciate experience
+^
+Appreciate high quality work
+^
+Build self-reliance
+^
+Practice responsibility
+^
+Learn by doing
+^
+Challenge yourself, and others you work with
+^
+Work towards harmony
+^
+Strive to bring problems to the surface
+^
+Stopping the work when problems occur forces you to address problems immediately
+^
+Thinking about problems, and solving them, helps you develop
+^
+The right process will produce the right results
+^
+Work continuously on improving your work processes
+^
+Strive to work continuously on your development tasks, wherever possible
+^
+Working continuously has a dramatic influence on your productivity
+^
+Working continuously has a positive impact on quality
+^
+Lowering the amount of work in progress exposes problems more quickly
+^
+Stopping the work you are currently doing when a problem is identified creates immediate motivation to fix the problem
+^
+Develop a sense of urgency
+^
+Eliminate non-value adding work, from the work process
+^
+Producing functionality that no one uses is the most fundamental waste
+^
+Waiting is a waste
+^
+Waiting for others to respond is a waste
+^
+Over design is a waste
+^
+Excess work in progress is a waste
+^
+Excessive task switching is a waste
+^
+Defective work and bugs are waste
+^
+Unused creativity is a waste
+^
+High stress work creates defective product and waste
+^
+Follow the advance of the product from the requirements definition to the finished state, and identity the value adding, and the non-value adding steps
+^
+Identify what’s getting developed but not used. Understand how this came to be, and reflect on how it can be prevented in the future.
+^
+The allocation of new work should be triggered by the completion of existing work
+^
+Working continuously on the same task, shortens the time to produce a finished product by a number of orders
+^
+Work according to priorities
+^
+Some task switching is unavoidable
+^
+Work continuously on the same task, where possible
+^
+Focus on reducing the amount of work in progress
+^
+Large amounts of work in progress take up mental attention
+^
+Big amounts of work in progress hide problems for longer
+^
+Strive to finish tasks before going on to others
+^
+Strive to have a minimal amount of work in progress
+^
+Having a small number of work tasks waiting helps level out the work
+^
+Working continuously on the same task, eliminates the accumulation of work in progress related to working on multiple tasks at the same time.
+^
+Working continuously on the same task, finds problems much faster
+^
+When a bug is discovered late, the trail of cause and effect is cold
+^
+Your capacity to produce work, and the amount of work you get allocated need to be balanced, otherwise you will be either swamped or starved
+^
+Strive to achieve a consistent pace of work
+^
+Be a good inspector of your own work, and the requirements passed on to you
+^
+Working continuously on the same task, enables you to produce work in relatively short time
+^
+Working on one thing at a time, greatly reduces your mental load
+^
+Breaking down the task into smaller pieces, enhances your ability to work on tasks continuously
+^
+Hold software quality in the highest regard
+^
+Train yourself to be able to work on different parts of the system, and develop different types of functionality
+^
+Reduce the amount of time needed to switch between one task and another
+^
+Develop understanding of the challenges and pains of continuous improvement
+^
+When you work continuously on tasks, you get faster feedback on your work
+^
+Having many tasks in progress reduces the pressure to solve problems immediately, leading to problems existing for a much longer time, before being addressed
+^
+Working continuously on the same development task is challenging, because you need to prepare very well before your start
+^
+Identify the parts in the development process that have become the bottleneck
+^
+Ask to be co-located with those you most interact with to do the work
+^
+The production of new requirements should be aligned with your capacity to implement requirements
+^
+Organizations tend to produce requirements far in excess of your capacity to implement them
+^
+Indicate when you need more work to be allocated to you
+^
+One of the most important challenges is continue learning all the time
+^
+Reduce the amount of work in progress, to identify problems faster
+^
+Adhere strictly to deadlines
+^
+Have a place for everything, and put everything in its place
+^
+Reflect about improving the development process
+^
+Level out your workload
+^
+Leveling out your workload helps you implement improvements
+^
+Leveling out the workload helps you to reduce the amount of work in progress
+^
+Accumulating a few allocated development tasks helps you level out the workload
+^
+Leveling out the workload, reduces stressful peaks of work
+^
+High stress results in quality problems
+^
+Level out the workload, both in volume of work per day, and the mix of task types that you do across the week, or month
+^
+Keep work tasks small
+^
+Level out the workload, also across your task types mix
+^
+Produce completed work at a consistent pace, to not overwhelm or starve the group testing your work
+^
+Produce completed work at a consistent pace, putting an even demand on the group supplying you with work
+^
+Working on a mix of work task types, mandates a quick changeover between task types
+^
+Fast changeover between work task types can be achieved by ensuring that all information needed to do the task is ready before the task starts
+^
+Changeover time between tasks can be reduced
+^
+Leveling the work level is a basis for standardizing work practices
+^
+Leveling out your work provides benefits also those supplying you with work. It helps them work at a leveled out pace
+^
+Allow changes, though limited, in work already under development
+^
+Allowing specification changes during development improves accommodation of customer needs
+^
+Adhere to deadlines strictly
+^
+Different phases in the development process require different allocations of work effort
+^
+Develop good working relationships with the people you work with
+^
+Level the task type mix on a weekly or monthly basis
+^
+Keep in mind, and communicate the amount of work in progress
+^
+Error-proof your development process
+^
+Use software tools and software development techniques to error-proof your development process
+^
+Stop to fix problems
+^
+Get quality right the first time
+^
+Don’t let problems wait to be fixed
+^
+Reducing the work in progress, helps problems come to the surface more quickly
+^
+Stopping development work when a problem occurs, is critical for continuous improvement
+^
+Go see how the software is being used
+^
+Build tools to automatically detect defective work and bugs
+^
+It much cheaper to prevent problems during software development, then catch and fix problems after development is finished
+^
+Use help when needed
+^
+Communicate about the problem you’re having
+^
+Get to the root cause
+^
+Solving problems at the source saves time and money
+^
+When a problem is detected, stop your regular work and handle it
+^
+When a problem is detected, work immediately to resolve it
+^
+Invest in mistake proofing, to make mistakes impossible, or highly improbable
+^
+Develop standards related to your work outputs
+^
+Use work standards as a measure against quality problems
+^
+Increase the challenges on yourself in a gradual manner
+^
+End product testing and inspection quality is inferior to in-process quality measures
+^
+Quality should also be judged after substantial product use
+^
+There’s power in simplicity
+^
+Utilize available training
+^
+Help train those less experienced than you
+^
+Work at improving your troubleshooting capabilities
+^
+Use problems as opportunities for learning
+^
+Identify common problems, and address them.
+^
+Use checklists
+^
+Stop and reflect
+^
+Consider a broad range of alternatives
+^
+Learn quality principles, techniques and practices
+^
+Teach others about quality principles, techniques and practices
+^
+Design quality into your product, at the earliest design stages
+^
+Quality tools work only if you understand fully the quality principles behind them.
+^
+First perfect the manual process. Only then consider supporting automation
+^
+Quality is the responsibility of every single employee throughout the organization, including you
+^
+There should be no compromise on quality
+^
+Anticipate problems and put in countermeasures before problems even occur
+^
+Stop and get quality right the first time, in order to get productivity improvements in the long run.
+^
+Work standards are a basis for continuous improvement
+^
+Identify recurring problems, and handle the root cause
+^
+Share your ideas
+^
+Encourage others to share ideas, and incorporate those ideas into the product and the development process
+^
+Today’s standard is the basis for tomorrow’s improvement
+^
+The standard is the best we know today
+^
+Learn by doing
+^
+Work standards should be the product of doing the actual work
+^
+Work standards should include the quality of inputs you require in order to start a task
+^
+Work standards should include the various steps you apply to your development task
+^
+Build a collaborative atmosphere with the people you work with
+^
+It is impossible to improve any process without defining standards
+^
+Work standards are key in building in quality
+^
+Standards should be developed by those actually doing the work
+^
+Expect and ask for control over your development tasks
+^
+Adhere to work standards while at the same time thinking on how they can be improved on
+^
+Improve and utilize you capacities for analysis and problem solvers
+^
+Use the diverse perspective of others to plan and design solutions
+^
+Make decisions that fit well with the concerns of all involved parties
+^
+Use checklists
+^
+Capture knowledge, utilize that knowledge, and further improve on that knowledge
+^
+Cleanup the workplace
+^
+Communicate about problems you’re having
+^
+Utilize systems and develop automated testing that make problems visible
+^
+What would it take for you to find what you need immediately?
+^
+Communicate your work status
+^
+Communicate delays
+^
+Cleanliness aids in uncovering problems
+^
+Keep only what is needed now
+^
+Have a place for everything, and keep everything in its place
+^
+Separate between what is needed on a daily basis, and what is seldom used
+^
+Move the rarely used away from sight
+^
+Audit and review regularly
+^
+Measure yourself against quality objectives
+^
+Measure yourself against work standards
+^
+Communicate clearly
+^
+Put in thought into your organizing system
+^
+Have a predefined location to put everything
+^
+Check that you the have the needed information to do the next task
+^
+Check yourself, that you are not accumulating work in progress
+^
+Breakdown your work into smaller, manageable tasks
+^
+Check yourself against schedule
+^
+Communicate deviations from schedule
+^
+Develop relevant quality measures, to measure improvement
+^
+Audit periodically
+^
+Communicate frequently
+^
+Work towards improving communication and alignment
+^
+Communicate frequently, and efficiently
+^
+Use only reliable, thoroughly tested technology
+^
+Technology should serve you, and the development process, and not the other way around
+^
+Technology must be thoroughly tested, to ensure it adds value
+^
+Test new technologies using pilot projects
+^
+Technology should have visual indicators
+^
+Technology should be intuitive to use
+^
+Focus on improving the development process, and reducing waste. See technology as a support.
+^
+It is far easier to improve a manual process than an automatic one
+^
+First work out the manual process. Only then consider automation.
+^
+Often the best solution is a low tech solution
+^
+Collaborate with others, and with other departments
+^
+Customize technology to fit your needs
+^
+Use checklists extensively
+^
+Anticipate and countermeasure potential problems
+^
+Insert new technologically surgically, where added value is proven
+^
+Improve task changeover times
+^
+Rapid task changeover supports flexibility
+^
+Refine your development process, to be able to adapt to changing requirements
+^
+Give attention to detail
+^
+Ask why 5 times
+^
+If technology has been thoroughly evaluated, and will pay for itself in the long term, adopt it
+^
+Develop yourself
+^
+Help others develop
+^
+Strive to thoroughly understand the work
+^
+Strive to thoroughly understand quality principles, tools and practices
+^
+Teach others
+^
+Strive to utilize the maximum of your brainpower
+^
+Listen to others
+^
+Ask for ideas from others
+^
+Strive for continuation of direction
+^
+Understand your organization’s philosophy
+^
+Go see, to deeply understand how the software is used
+^
+Understand the work your co-workers are doing
+^
+Leaders should teach quality principles, tools and practices
+^
+Constancy of direction is a basis for learning
+^
+Give yourself time to gain important experience, before seeking promotion
+^
+Never stop learning
+^
+Value on the job experience
+^
+Value the lessons of trial and error
+^
+Value perseverance
+^
+Engage others
+^
+Put the customer first, then your co-workers, and then yourself
+^
+Learn about your customers
+^
+Work at understand what the customers need
+^
+Strive to thoroughly understands the work
+^
+Hold yourself accountable
+^
+Use persuasion, rather than authority
+^
+Lead with a combination of excellent technical abilities, and leadership skills
+^
+Challenge yourself and others
+^
+Teach by asking questions
+^
+See problems as opportunities to learn and teach
+^
+Give high priority to developing yourself and others
+^
+Solving root problems drives learning
+^
+Go see for yourself to thoroughly understand
+^
+Respect others by challenging them
+^
+Spend time observing and reflecting
+^
+Strive to gain deep understanding of quality principles, tools and practices
+^
+Improve gradually and systematically
+^
+Work together with others to solve problems
+^
+Learn different areas of the code
+^
+Strive for self-direction
+^
+Respect the experience of those actually using the system
+^
+Respect the knowledge of those who developed the system
+^
+Assist others
+^
+Help others develop
+^
+Take challenging work, to aid your professional development
+^
+Provide feedback to others
+^
+Seek feedback from others
+^
+Ask for autonomy over your development tasks
+^
+Set yourself challenging but attainable goals
+^
+Provide improvement suggestions
+^
+Listen to and implement improvement suggestions
+^
+Challenge others to improve
+^
+Understand the work done by others
+^
+Build strong long term relationships with the people you work with
+^
+Treat others fairly and with respect
+^
+Develop the relationship and trust with others gradually over time
+^
+Strive for tight coordination with the people you work with
+^
+Level the work load, and expect an even pace of work task requirements to flow to you
+^
+Encourage others around you to continuously improve
+^
+Develop your core competencies
+^
+Learn by doing
+^
+Learn together with others you work with
+^
+Share learning
+^
+Learn through improvement projects
+^
+Teach through improvement projects
+^
+Support others with your expertise
+^
+Analyze every aspect of your work
+^
+Make your expectations clear
+^
+Understand expectations from you
+^
+View your co-workers as partners
+^
+Expect high standards of quality from the people you work with
+^
+Help the people you work with implement quality tools and practices
+^
+Control the pace of work tasks assigned to you
+^
+Continuously solving root problems drives learning
+^
+Go see for yourself, to thoroughly understand
+^
+Ask “why?” five times
+^
+Observe without preconception, with a blank mind
+^
+Rely on both reports by others, and on seeing for yourself firsthand
+^
+Ask yourself questions
+^
+The first step in problem solving, is thorough understanding of the situation.
+^
+Get to the root cause
+^
+Take responsibility for the quality of the information you report
+^
+Observe and think about what you are seeing
+^
+Spend the necessary time observing
+^
+Base your thinking on fact, and not just theory
+^
+Think and communicate only based on personally verified data
+^
+Come prepared to meetings.
+^
+There are things you can understand only by going to see the system in use and observing
+^
+Observe customers while using your products
+^
+Observe customers while using competitor’s products
+^
+Understand what the customer values
+^
+Understand what your customer uses your product for
+^
+Get into the details of what’s wrong
+^
+Collect data about problems
+^
+Develop yourself by asking questions.
+^
+Help others develop by asking questions
+^
+Communicate efficiently
+^
+Communicate frequently
+^
+Go see the system in use
+^
+See with your own eyes
+^
+Prepare in advance
+^
+Check in advance
+^
+Go into the details
+^
+Try to arrive at decisions that have maximum consensus
+^
+Decide based on thoroughly considering as many options as possible.
+^
+Plan thoroughly
+^
+Assume nothing. Verify everything.
+^
+Allocate the appropriate time and effort to the design phase
+^
+God is in the details
+^
+Broadly consider alternative solutions
+^
+Considering a broad range of alternatives is more efficient in the long run
+^
+Consider a broad range of alternatives, evaluate and test them.
+^
+Gather multiple inputs, from a wide variety of sources
+^
+Strive for solutions that satisfy all parties involved
+^
+Select the responsible, long term solution
+^
+Expend all necessary effort in the early stages, so that later stages will follow smoothly
+^
+Develop yourself by taking on challenging projects
+^
+Communicate
+^
+Seek advice from others
+^
+Communicate efficiently and visually
+^
+Utilize the design – implement – test – fix  cycle
+^
+Structure your communication to support high quality problem solving
+^
+Efficient communication facilitates the involvement of a large number of parties
+^
+Develop ahead countermeasures for expected future problems.
+^
+Efficient communication facilitates learning by you and by others
+^
+Meeting should have clear objectives
+^
+Come prepared to meetings
+^
+Share the information before the meeting, and focus the meeting on problem solving
+^
+Make the effort to finish on time
+^
+Putting a lot effort into data collection and analysis, eases the final decision making process.
+^
+Share information widely, and get inputs from a broad variety of sources, to build support for your finally selected option.
+^
+Reflect on the things that you do
+^
+See errors as opportunities for learning.
+^
+Share knowledge
+^
+Learn
+^
+Learn how to learn
+^
+Translate your innovations into new work standards
+^
+Identify root causes, and develop countermeasures for them
+^
+Focus on the process, and the results will come
+^
+Developing work standards is a basis for continuous improvement
+^
+Working for years at the same company enhances your ability to contribute quality work
+^
+Gain the needed experience, before pursuing promotion
+^
+Cultivate the attitude of self-reflection and self-criticism, and a burning desire to improve
+^
+High quality problem solving requires identifying not just the source, but also the root cause
+^
+Ask why five times
+^
+Prevent reoccurrences of problems
+^
+Prioritize problems according to their impact on the product or the organization
+^
+Problem solving is 20% tools, and 80% thinking
+^
+Self-reflection is key to learning and developing
+^
+Reflection leads to countermeasures, so that the problem does not happen again.
+^
+Be honest about your weaknesses
+^
+Strive to overcome your weaknesses
+^
+Learn from mistakes, yours and others’
+^
+Request feedback on your performance
+^
+Practice self-reflection
+^
+Evaluate and test all through the development process
+^
+Collect metrics and reflect on your development process
+^
+Count the number of times you stopped to reflect
+^
+Use pareto analysis to identify the most common problems, that need the most urgent addressing
+^
+Invest in yourself
+^
+Invest in your development process
+^
+Set yourself challenging goals
+^
+Measure your progress
+^
+Move from short-term fixes, to long term improvements
+^
+Check countermeasures to make sure they are doing their job
+^
+Bring waste and problems to the surface
+^
+Request feedback
+^
+Provide feedback
+^
+Identify your internal customer within your organization
+^
+See the person who gets to test or use your work within the organization, as your customer
+^
+Significant quality improvement takes time
+^
+Significant quality improvement takes commitment
+^
+Visualize the future you want
+^
+Work on improving quality in a staged manner, tackling one area at a time.
+^
+Identify the customer’s needs
+^
+Identify the core functionality that the customer is paying for
+^
+Improvement efforts must be sustained
+^
+Search for opportunities for improvement
+^
+Eliminate the non-value adding operations from the development process
+^
+Take the time to understand the customer
+^
+Spend time reflecting on the development process
+^
+Beware of jumping from fad to fad
+^
+Strive to deliver exceptional value
+^
+It takes time
+^
+Quality improvement takes commitment
+^
+Sustaining quality improvements requires thought, planning and effort
+^
+Strive to continue learning every day
+^
+Practice what you preach
+^
+Teach by providing feedback
+^
+Make long-term investments
+^
+Develop deep understanding of quality principles, tools, and practices
+^
+Learn by doing
+^
+Check out and test new ideas for improvement.
+^
+Work to produce value
+^
+Develop deep understanding
+^
+Develop & collect quality metrics
+^
+Learn from those producing high quality work
+^
+Find successes to emulate
+^
+Utilize preventive measures
+^
+Strive for simplicity; simple design, and simple preventive measures
+^
+Create a vision of how you would like the future to be like
+^
+Utilize the diverse perspective of others to address complex problems, analyze & plan the work, and design products
+
+
+

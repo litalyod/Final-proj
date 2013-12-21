@@ -1,0 +1,19 @@
+Debugging is a complex activity 
+^
+The process of becoming an expert in debugging, is similar to the process of becoming a chess master 
+^
+Reproducing in the development setup enables you to work on the bug with a richer set of tools. 
+^
+When you don’t manage to reproduce in the development setup, consider trying to reproduce in the production setup
+^
+Reflect on your debugging episodes 
+^
+Part of debugging is managing the bug task load 
+^
+Consider consulting with others, who may be more expert than you in the specific bug domain 
+^
+Notice how others approach the debugging task 
+^
+Learn from others 
+^
+Learn from other disciplines 

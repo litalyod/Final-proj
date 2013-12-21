@@ -1,0 +1,155 @@
+How big an effort will it be to fix this bug? If it’s a really big effort, it’s not a bug, it’s a feature 
+
+Be mindful of costs 
+
+Ask you clients about the relative priorities of the different bugs 
+
+Start with high level analysis of the bug, and only after you have some grasp of the essentials, proceed to low level work 
+
+Take time before starting to use the debugger 
+
+What are the external manifestations of the bug? 
+
+Consider consulting someone else 
+
+How important is this bug? 
+
+Stop! Are you using your time in the best way? 
+
+Is this a recurring bug, or a single occurrence? 
+
+There is no bug free program 
+
+What is the impact of the bug. Why is it important? 
+
+<Important> The key to efficiency is the order in which we work. Do highly productive tasks first, and lower productive tasks later. E.g. detailed reviewing & reflection on the bug report is a highly productive task. On the other hand, you can be stuck for hours using the debugger, with little to show for it. 
+
+Challenge the reported bug priority 
+
+Discuss the bug priority. Strive to understand it’s impact 
+
+While powering up the system, or doing heavy compilation, review your debugging notes. 
+
+Coming back to the debugging task, review notes of what you have done so far 
+
+The key to debugging efficiency is the order in which you proceed 
+
+The most efficient way to handle a bug is not to handle it at all, discerning that its priority is low 
+
+Are you the best person to handle this bug? Do you have the most expertise? Consider delegating the bug to others 
+
+One of your most precious resources is your own time. You are responsible for guarding it 
+
+Once you’ve started to work on a bug, strive to reach resolution. Try to avoid switching to other tasks. 
+
+Many times, the most efficient thing to do is to stop, reflect and consider. 
+
+Start debugging studying as broad a range of data sources as possible. Proceed to dig deep with caution. 
+
+Sometimes, the bug priority cannot be well defined, until it is more understood 
+
+Strive to reduce reproduction cycle time 
+
+Do small code fixes and compilation while the system is up, to reduce cycle time 
+
+Reduce the cycle time between fixing and checking 
+
+The shorter the time between the bug being reported, and your getting to work on it, the richer the data set to work from 
+
+Bugs are not always assigned to the person best qualified to handle them. Are you the best person to work on this bug? 
+
+Sometimes, you need to more understand the bug, in order to know who’s best to assign it to 
+
+Don’t get angry. Think. 
+
+Feeling angry? Feeling frustrated? Stop, and reflect. 
+
+Is there some important data that needs to be collected before you can efficiently proceed? 
+
+Sometimes you need to understand the problem better, in order to know what type of data to collect 
+
+Would it be better now to stop, and ask for more data collection? 
+
+The key to efficient debugging is the order in which you approach the task 
+
+Start with thorough understanding of the bug report 
+
+Start from registering external manifestations, and continue to understanding the details 
+
+Start from tasks you can complete in minutes, and continue with tasks that take hours 
+
+Strive to work on the bug in big blocks of time. 
+
+Take your time looking at the external manifestations of the bug. Does something come to mind? Can you see a pattern? 
+
+Write down what you thought, what you checked, and what you found out. Many times, later review of your notes can be highly productive 
+
+Spend time thinking about what you have seen. Thinking is highly productive, and many times essential in resolving the bug. 
+
+Work in an orderly manner. This relieves stress. Lower stress enables you to work more efficiently, and make better decisions 
+
+Some debugging activities are highly more productive than others. Reflect on your experience which activities are the most productive 
+
+Order is critical for the efficient working on a bug. There is no pre-defined best order to work on a specific bug. Both statements are true 
+
+Some debugging activities will be understood in retrospect to be hugely wasteful 
+
+After resolving the bug, reflect on what broke it open for you 
+
+Reduce the cycle time 
+
+Reduce the reproduction cycle time
+
+Reduce the fix – check cycle time 
+
+Why is the bug important? 
+
+You are responsible for the efficient use of your time 
+
+You are responsible for guarding your time 
+
+Fix the code, compile and check with the system is up. 
+
+Consider the next debugging activity you want to engage in: how much time is it going to take? If a lot, is there anything else you can do before? 
+
+Look at the GUI, while the bug is being reproduced. Can you notice anything? 
+
+When you have good understanding of the context of the bug, using the debugger can be a very efficient activity 
+
+At first, study a broad range of resources. Once you have some understanding of the context of the bug, dig deep. 
+
+Ask other developers, if they have encountered this bug before. 
+^
+How can you let your PC do some of the work, even if it takes more time? For instance, searching thru documentation for relevant keywords.
+^ 
+Is there someone you can discuss this bug with? 
+^
+Once you understand the bug, stop. Is it still important to fix it? Is there someone more qualified to fix it? 
+^
+After an initial look at the bug report, stop. Is the bug important enough to work on? Is there someone more qualified to work on it? Does it have all the needed data, that you can work on it efficiently? Is there something you don’t understand in the bug report? 
+^
+Usually it’s more efficient to first look in the log, before looking in the code 
+^
+Use the log for key words to look in the code 
+^
+Reflect back on your bug fixing: what activities were helpful? What activities were a huge waste of time? 
+^
+Work on you bug list, according to bug priorities 
+^
+Study the log 
+^
+If you need to use a production system, plan your debugging session 
+^
+Can you automate the software power up, so that it needs the least intervention from you? This way, you can do other things meanwhile.
+^
+Can you automate compile and software power up, to need minimum intervention from you, so that you can do other things at the same time? 
+^
+Utilize the configuration management tools. They hold a wealth of information, sometimes very helpful for the resolution of the bug 
+^
+What tasks can you give the software to do in the meanwhile? E.g. opening the configuration management reports. 
+^
+Be lazy. Try for the shortest way, the least effort. 
+^
+Who is the best person to handle this bug? 
+^
+Is the bug priority correct? 

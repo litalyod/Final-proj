@@ -1,0 +1,75 @@
+Understand what data can be collected 
+
+Learn how data collection can be controlled 
+
+Where do the results go? 
+
+Is there any documentation? 
+
+Do you have any documentation of similar problems? 
+
+Do you have any documentation of the particular software subsystem, or package? 
+
+Was the data collected at the failure point of time, or was it collected too late? 
+
+Program your code to collect the data you need, next time the problem occurs. 
+
+Compare data of a failure, with data of a success 
+
+Collect data of successes, to be able to compare to the failures. 
+
+Have there been recent environmental changes? 
+
+What control flags should you check? 
+
+What indicators should you check? 
+
+Notice what other people look at 
+
+What are the key indicators? 
+
+Start by reviewing the bug report 
+
+What are the key controls controlling data collection? 
+
+Is this an already known bug? 
+
+Check which code files have been updated lately 
+
+Look at the code change history in the configuration management system 
+
+Collect GUI snapshots, at the time the bug occurred 
+^
+Look at the available disk space 
+^
+Setup code that automatically collects debug data 
+^
+Create a utility that enables users encountering bugs to easily collect critical bug data 
+^
+What version are they running? 
+^
+What data can you ask the person who reported the bug to collect? 
+^
+At what time did the problem occur? 
+^
+Learn what data collection is available or important at the specific subsystem level 
+^
+Reflect what data collection is important for different types of bugs. E.g. what data collection is important in a case of a deadlock? 
+^
+What data could help you to reproduce the problem? 
+^
+Look at the configuration management history in the code areas related to the problem 
+^
+Strive to automate the data you standardly collect 
+^
+Understand how the feature is used 
+^
+Go over the usage flow with the bug reporter. Sometimes they use the software in a sequence you would not have imagined. 
+^
+Ask the bug reporter if the problem happens consistently 
+^
+Ask the bug reporter if he has seen the bug before 
+^
+Collect the software logs 
+
+

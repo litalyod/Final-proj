@@ -1,0 +1,186 @@
+
+Duplicated code code smell: 
+Identical or very similar code exists in more than one location.
+~wiki: common code smells
+^
+Long method code smell: 
+A method, function, or procedure that has grown too large.
+~wiki: common code smells
+^
+Large class code smell: 
+A class that has grown too large. See God object.
+~wiki: common code smells
+^
+Too many parameters code smell: 
+A long list of parameters in a procedure or function make readability and code quality worse.
+~wiki: common code smells
+^
+Feature envy code smell: 
+A class that uses methods of another class excessively.
+~wiki: common code smells
+^
+Inappropriate intimacy code smell: 
+A class that has dependencies on implementation details of another class.
+~wiki: common code smells
+^
+Refused bequest code smell: 
+A class that overrides a method of a base class in such a way that the contract of the base class is not honored by the derived class. 
+See Liskov substitution principle.
+~wiki: common code smells
+^
+Lazy class / Freeloader code smell: 
+A class that does too little.
+~wiki: common code smells
+^
+Contrived complexity code smell: 
+Forced usage of overly complicated design patterns where simpler design would suffice.
+~wiki: common code smells
+^
+Excessively long identifiers code smell: 
+In particular, the use of naming conventions to provide disambiguation that should be implicit in the software architecture.
+~wiki: common code smells
+^
+Excessively short identifiers code smell: 
+The name of a variable should reflect its function unless the function is obvious.
+~wiki: common code smells
+^
+Excessive use of literals code smell: 
+These should be coded as named constants, to improve readability and to avoid programming errors. 
+Additionally, literals can and should be externalized into resource files/scripts where possible, to facilitate localization of software if it is intended to be deployed in different regions.
+~wiki: common code smells
+^
+Ubercallback code smell: 
+A callback that is trying to do everything
+~wiki: common code smells
+^
+Complex conditionals code smell: 
+Branches that check lots of unrelated conditions and edge cases that don't seem to capture the meaning of a block of code.
+~wiki: common code smells
+^
+Cohesion
+Cohesion refers to the degree to which the elements of a module belong together
+~wiki: cohesion
+^
+Coupling
+Coupling is the degree to which each program module relies on each one of the other modules
+~wiki: coupling
+^
+Disadvantage of tight coupling: 
+A change in one module usually forces a ripple effect of changes in other modules
+~wiki: coupling
+^
+Loose coupling
+A loosely coupled system is one in which each of its components has, or makes use of, little or no knowledge of the definitions of other separate components
+~wiki: loose coupling
+^
+Single responsibility principle
+Every class should have a single responsibility, and that responsibility should be entirely encapsulated by the class
+~wiki: Single responsibility principle
+^
+Separation of concerns principle 
+Separating a computer program into distinct sections, such that each section addresses a separate concern
+~wiki: Separation of concerns
+^
+Open/closed principle
+Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification
+~wiki: Open/closed principle
+^
+Liskov Substitution Principle
+Methods that use reference to base classes must be able to use objects of derived classes without knowing it 
+~Object Mentor 
+^
+Interface segregation principle
+Split interfaces which are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them
+~wiki: Interface segregation principle
+^
+Dependency Inversion Principle
+A. High level modules should not depend upon low level modules. Both should depend upon abstractions. 
+B. Abstractions should not depend upon details. Details should depend upon abstractions.
+~Object Mentor
+^
+KISS principle
+KISS is an acronym for "Keep it simple, stupid" as a design principle noted by the U.S. Navy in 1960.
+The KISS principle states that most systems work best if they are kept simple rather than made complex; 
+therefore simplicity should be a key goal in design and unnecessary complexity should be avoided
+~wiki: KISS principle
+^
+Separate code that varies from code that stays the same
+If you have some aspect of your code that tends to change frequently, consider separating that code from the code that does not change. In other words, you should encapsulate the parts that vary so that you can later alter or extend those parts without touching the parts that do not vary.
+~knowledge wiki: Core software design principles
+^
+Program to an interface, not an implementation
+When you program to concrete implementations of classes, you get locked into those concrete implementations. If you program to an interface instead, your only reliance is on the interface and not the implementation. So, you're not locked in; you can swap out the implementation of some aspect of your program more easily.
+~knowledge wiki: Core software design principles
+^
+Favor composition over inheritance
+Consider the HAS-A relationship: a Person has a WalkBehavior and a TalkBehavior and the person delegates talking and walking to these behaviors.
+When you put two classes like this together, you are using composition. Instead of inheriting her behavior, the Person gets her behavior by being composed with the right behavior objects.
+Using composition in lieu of inheritance gives you greater flexibility. It lets you encapsulate a family of algorithms into their own set of classes and it also lets you change behavior at runtime as long as the object you've composed implements the correct behavior interface.
+Composition is used in many design patterns. The Strategy Pattern, in particular, promotes composition over inheritance.
+~knowledge wiki: Core software design principles
+^
+Strive for loose coupling
+When two objects are loosely coupled, they can interact, but have very little knowledge of each other.
+
+Loosely coupled designs allow us to build systems that are more flexible because they minimize the interdependecy between objects.
+~knowledge wiki: Core software design principles
+^
+Classes should be open for extension, but closed for modification
+Classes should be easily extended to incorporate new behavior without modifying existing code. When we accomplish this, our designs are resiliant to change and flexible enough to take on new functionality and meet changing requirements.
+~knowledge wiki: Core software design principles
+^
+Depend upon abstractions, not concretes
+This is also known more formally as the Dependency Inversion Principle. It is similar to the concept of programming to an interface rather than an implementation, but it makes an even stronger statement about abstraction. It suggests that high-level components should not depend on low-level components; they should both depend on abstractions. One example can be visualized by imagining one abstract class inserted between a parent object that contains many child objects. Instead of making the parent refer to the child objects directly, it refers to their abstract base class.
+
+The Factory Pattern is one of the most powerful examples of adhering to the Dependency Inversion Principle.
+~knowledge wiki: Core software design principles
+^
+Principle of Least Knowledge - interact only with your immediate friends
+For any object in a system, you need to be careful of the number of classes it interacts with and how it comes to interact with those classes.
+
+This principle prevents us from creating systems that have a large number of classes coupled together where changes in one part of the system cascade to other parts. A system with too many dependencies is expensive to maintain and difficult for others to understand.
+~knowledge wiki: Core software design principles
+^
+The Hollywood Principle - Don't call us, we'll call you
+Low-level components can participate in a computation, but the high-level components should control when and how. A low-level component should never call a high-level component directly.
+~knowledge wiki: Core software design principles
+^
+A class should have only one reason to change
+Assign each responsibility to one class, and only one class.
+
+Modifying code provides opportunities for new problems to arise. If a class has many ways to change, the probability of affecting multiple aspects of a system are increases when the class is changed.
+
+This principle might also be called Separation of Responsibility, but we think our chosen heading expresses more. Separating responsibility sounds deceptively simple, but it's can actually be quite hard to do. The human brain is design to classify, organize, and group concepts, so doing the exact opposite can be a bit counter-intuitive.
+~knowledge wiki: Core software design principles
+^
+Design to avoid Rigidity, Fragility, and Immobility
+In his paper, "Dependency of Inversion Principal", Robert C. Martin wrote the following which I think makes a perfect conclusion to this article.
+
+But there is one set of criteria that I think all engineers will agree with. A piece of software that fulfills its requirements and yet exhibits any or all of the following traits has a bad design.
+
+1.It is hard to change because every change affects too many other parts of the system. (Rigidity)
+2.When you make a change, unexpected parts of the system break. (Fragility)
+3.It is hard to reuse in another application because it cannot be disentangled from the current application. (Immobility)
+Moreover, it would be difficult to demonstrate that a piece of software that exhibits none of those traits, i.e. it is flexible, robust, and reusable, and that also fulfills all its requirements, has a bad design. Thus, we can use these three traits as a way to unambiguously decide if a design is 'good' or 'bad'
+~knowledge wiki: Core software design principles
+^
+You aren't gonna need it
+"You aren't gonna need it" (acronym: YAGNI) is a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary
+~wiki: You aren't gonna need it
+^
+Don't repeat yourself
+Don't repeat yourself (DRY) is a principle of software development aimed at reducing repetition of information of all kinds
+~wiki: Don't repeat yourself
+^
+Rule of three 
+Rule of three is a code refactoring rule of thumb to decide when a replicated piece of code should be replaced by a new procedure. It states that the code can be copied once, but that when the same code is used three times, it should be extracted into a new procedure. 
+-Refactoring, Martin Fowler
+^
+Principle of least astonishment
+People are part of the system. The design should match the user's experience, expectations, and mental models
+~wiki: Principle of least astonishment
+^
+Release early, release often
+A software development philosophy that emphasizes the importance of early and frequent releases in creating a tight feedback loop between developers and testers or users
+~wiki: Release early, release often
+

@@ -1,37 +1,34 @@
-
 import FileFunctions.*;
+import Folders.RandomFolder;
 
 import java.awt.*;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.URL;
-
 import javax.swing.JApplet;
 
 public class Tipapplet extends JApplet implements Runnable {
 
-	
-	private final static int NUM_CHARS_PER_SEC         = 25;
-    private final static int NUM_QUOTES_FROM_SAME_FILE =  3;
-    
+	private final static int NUM_CHARS_PER_SEC = 25;
+	private final static int NUM_QUOTES_FROM_SAME_FILE = 3;
+
+	private final static int IMAGE_SLEEP_TIME = 1000;
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 	String fileToRead;
+	String folderToRead;
 	TextArea txtArea;
 	StringBuffer quote = new StringBuffer();
+	Image image = null;
+	MediaTracker mt;
 	Thread runner, t;
 	int count = 0;
 	String[] quotes;
-	int optTipLength = 0;
-	
+	boolean isTextFile = true;
+	int optTipLength = 10000;
 
-	String fileList = "bugs.txt,compQuotes.txt,cpp.txt,general.txt";
-	int[] weights = { 50, 150, 25, 220 };
-
+	String fileList;// = "bugs.txt,compQuotes.txt,cpp.txt,general.txt";
+	String[] weights;// = { 50, 150, 25, 220 };
+/*
 	public StringBuffer readFile() {
 		StringBuffer strBuff;
 		String line;
@@ -55,7 +52,7 @@ public class Tipapplet extends JApplet implements Runnable {
 			e.printStackTrace();
 			return null;
 		}
-	}
+	}*/
 
 	public void start() {
 		runner = new Thread((Runnable) this);
@@ -67,9 +64,16 @@ public class Tipapplet extends JApplet implements Runnable {
 		t = Thread.currentThread();
 		while (t == runner) {
 			repaint();
-			try {
-				t.sleep(1000 * quote.length() / NUM_CHARS_PER_SEC);
-			} catch (InterruptedException e) {
+			if (isTextFile) {
+				try {
+					t.sleep(1000 * quote.length() / NUM_CHARS_PER_SEC);
+				} catch (InterruptedException e) {
+				}
+			} else {
+				try {
+					t.sleep(IMAGE_SLEEP_TIME);
+				} catch (InterruptedException e) {
+				}
 			}
 		}
 	}
@@ -79,39 +83,58 @@ public class Tipapplet extends JApplet implements Runnable {
 		txtArea = new TextArea("", 5, 100, TextArea.SCROLLBARS_NONE);
 		txtArea.setEditable(false);
 		txtArea.setFont(new Font("TimesRoman", Font.LAYOUT_LEFT_TO_RIGHT, 16));
-		add(txtArea);
-		optTipLength = TipLength.CalcTipOptLength(fileList.split(","));
-
 	}
-	
+
 	public boolean ReadNewQuote() {
 		if (count == 0) {
-			int randomFileIndex = RandomFile.calcRandomFileIndex(weights, fileList);
-			String[] files = fileList.split(",");
-			fileToRead = files[randomFileIndex];
-			String prHtml = this.getParameter("fileToRead");
-			if (prHtml != null)
-				fileToRead = new String(prHtml);
-			StringBuffer strBuff = readFile();
+			folderToRead = RandomFolder.CalcRandomFolder("tipFolders/");
+			folderToRead = "tipFolders/"+folderToRead;
+			StringBuffer strBuff = ReadFile.ReadFileFromPath(folderToRead + "/" + "files.txt");
 			if (strBuff == null) {
 				return false;
 			}
+			String[] fileContent = strBuff.toString().split("\\^");
+			fileList = fileContent[0];
+			weights = fileContent[1].split(",");
+			int randomFileIndex = RandomFile.calcRandomFileIndex(weights,
+					fileList);
+			String[] files = fileList.split(",");
+			fileToRead = files[randomFileIndex];
+			fileToRead = folderToRead+"/"+fileToRead;
+			String prHtml = this.getParameter("fileToRead");
+			if (prHtml != null)
+				fileToRead = new String(prHtml);
 
-			String context = strBuff.toString();
+			if (fileToRead.endsWith(".txt")) {
+				isTextFile = true;
+				strBuff = ReadFile.ReadFileContent(fileToRead);
+				if (strBuff == null) {
+					return false;
+				}
 
-			quotes = context.split("\\^");
+				String context = strBuff.toString();
+
+				quotes = context.split("\\^");
+
+			} else {
+				isTextFile = false;
+				image = getImage(getDocumentBase(), fileToRead);
+				count = 0;
+			}
 		}
-		quote.delete(0, quote.length());
-		
-		String tip = ReadTip.nextTip(quotes);
-		
-		while (tip.length() > optTipLength) {
-			tip = ReadTip.nextTip(quotes);
+		if (isTextFile) {
+			quote.delete(0, quote.length());
+
+			String tip = ReadTip.nextTip(quotes);
+
+			while (tip.length() > optTipLength) {
+				tip = ReadTip.nextTip(quotes);
+			}
+
+			quote.append(tip);
+			quote.append(optTipLength);
+			count++;
 		}
-		
-		quote.append(tip);
-		quote.append(optTipLength);
-		count++;
 		if (count > NUM_QUOTES_FROM_SAME_FILE) {
 			count = 0;
 		}
@@ -123,7 +146,15 @@ public class Tipapplet extends JApplet implements Runnable {
 		if (!ReadNewQuote()) {
 			return;
 		}
-		txtArea.setText(quote.toString());
+		g.clearRect(0, 0, g.getClipBounds().width, g.getClipBounds().height);
+		if (isTextFile) {
+			add(txtArea);
+			txtArea.setText(quote.toString());
+		} else {
+			remove(txtArea);
+			g.drawImage(image,0,0,this);
+
+		}
 
 	}
 

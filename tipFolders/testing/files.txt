@@ -1,3 +1,0 @@
-Dilbert2_time.gif,Dilbert testing.jpg,DilbertSoftwareQuality.gif,load testing.jpg,stress testing.jpg
-^
-50,170,80,100,60

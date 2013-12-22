@@ -1,3 +1,0 @@
-compQuotes.txt,general.txt,wiki.txt
-^
-50,170,80
